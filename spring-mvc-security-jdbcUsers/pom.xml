@@ -56,6 +56,8 @@
 			<version>5.1.45</version>
 		</dependency>
 		
+		<!-- C3P0 datasource pool -->
+
 		<dependency>
 			<groupId>com.mchange</groupId>
 			<artifactId>c3p0</artifactId>
